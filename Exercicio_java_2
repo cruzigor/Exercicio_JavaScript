@@ -18,10 +18,10 @@ input[type="number"] {
    width:80px;
 }
 #resposta{
-background: #009900;
-color: #ffffff;
+background: #C0C0C0;
+color: #006400;
 border: 1px outset #009900;
-font: 15px Verdana;
+font: 15px Arial;
 width: 250px;
 margin: 10px 0 0 0;
 padding: 6px;
