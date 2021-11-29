@@ -45,7 +45,7 @@ display: none;
 </head>
 <body>
 <fieldset>
-    <legend>Calcular Equacao do Segundo rGau:</legend>
+    <legend>Calcular Equacao do Segundo Grau:</legend>
     <label>a:</label>
     <input id="a" type="number"/>
     <label>b: </label>
